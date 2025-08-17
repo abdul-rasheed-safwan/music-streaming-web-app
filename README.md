@@ -58,7 +58,7 @@ The Music Streaming Web App is a simple yet powerful platform that allows users 
 ## Technologies Used  
 - **Frontend:** React, Redux, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database & Storage:** Google Firebase (used instead of MongoDB for storing user data and songs)  
+- **Database & Storage:** Google Firebase  
 - **State Management:** Redux  
 - **Styling:** Tailwind CSS  
 
