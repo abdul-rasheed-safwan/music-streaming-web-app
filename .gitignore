@@ -1,0 +1,6 @@
+# Ignore system & build files
+__MACOSX/
+.DS_Store
+._*
+node_modules/
+build/
