@@ -62,5 +62,4 @@ The Music Streaming Web App is a simple yet powerful platform that allows users 
 - **State Management:** Redux  
 - **Styling:** Tailwind CSS  
 
-## Files and Structure  
 
